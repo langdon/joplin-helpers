@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Joplin
+Comment=Joplin for Desktop
+Exec="/opt/joplin/joplin.appimage" %U
+Terminal=false
+Type=Application
+Icon=appimagekit-joplin
+StartupWMClass=Joplin
+Categories=Office;
+TryExec=/opt/joplin/joplin.appimage
